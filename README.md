@@ -46,7 +46,7 @@ random forest, artificial neural network, gradient boosted machine and xgboost a
 ### Key results
 
 - using Cross Validated, on the imbalanced training data.
-- The h2o.gbm model gave the second best performance with 0.8328.
+- The model gave the second best performance with 0.8328.
 
 ### Implication of results
 
