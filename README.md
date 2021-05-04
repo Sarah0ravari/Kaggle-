@@ -5,13 +5,7 @@ In this project, we describe our approach for building data models to predict wh
 
 Please download the test and train data from https://www.kaggle.com/c/santander-customer-satisfaction/data
 
-The dataset - train.csv was obtained from Kaggle.com.
-  I did this project as part of my MATH 445.[ Statistical Foundations to Machine Learning].
-  The detailed final report on the analysis is available in this repository.
-  The scprit.R has the R codes used to analyse the data using the methods that we learned in math 445 class will cover concepts of linear models and prediction 
-  models including generalized linear models, supervised and unsupervised learning such as classification techniques and clustering. It also includes missing data
-  techniques and concepts of time series analysis.
-
+The dataset was obtained from Kaggle.com. I did this project as part of my MATH 445.[ Statistical Foundations to Machine Learning]. The detailed final report on the analysis is available in my GitHub repository. The python code used to analyze the data using the methods that we learned in math 445 class will cover concepts of linear models and prediction models including generalized linear models, supervised and unsupervised learning such as classification techniques and clustering. It also includes pre-processing techniques and concept analysis as the main body of this project.
 
 ### Importance of the problem
 
