@@ -1,4 +1,4 @@
-import pandas as pd
+
 import numpy as np
 
 #from sklearn.model_selection import StratifiedKFold,KFold,GroupKFold
@@ -21,8 +21,8 @@ from xgboost import XGBClassifier
 import time
 
 #import the data
-train = pd.read_csv("../input/santander-customer-satisfaction/train.csv")
-test = pd.read_csv("../input/santander-customer-satisfaction/test.csv")
+train = pd.read_csv(train)
+test = pd.read_csv(test)
 
 train.head()
 
