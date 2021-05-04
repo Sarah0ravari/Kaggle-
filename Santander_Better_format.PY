@@ -1,9 +1,3 @@
-
-
-                               
-
-
-from imblearn.over_sampling import SMOTE
 data = pd.read_csv("data.csv")
 
 data.head(5)
